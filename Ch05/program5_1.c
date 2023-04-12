@@ -11,14 +11,14 @@ int main(void)
 	printf("age + 1, age = %d\n\n", n);	//5-1
 
 
-	// ¤@¤¸¹Bºâ¤l
+	// ä¸€å…ƒé‹ç®—å­
 	/*
-	!a; >> aªºNOT¹Bºâ
+	!a; >> açš„NOTé‹ç®—
 	a is 0; !a is 1
 	a isn't 0, !a is 0
 	1:ture
 	0:false
-	! : §_©w¹Bºâ
+	! : å¦å®šé‹ç®—
 	*/
 
 	int a = 0, b = 6;
